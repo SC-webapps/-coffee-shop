@@ -1,5 +1,5 @@
 ---
-titile: "The Quest for the pHuurfect Bag of Coffee Beans 🐾 "
+titile: Bag of Coffee Beans
 date: 2021-06-27T20:47:33.790Z
 ---
 
