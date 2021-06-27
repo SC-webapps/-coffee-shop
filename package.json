@@ -15,8 +15,12 @@
   },
   "dependencies": {
     "gatsby": "^2.23.7",
+    "gatsby-plugin-netlify-cms": "^4.3.5",
+    "netlify-cms-app": "^2.12.15",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "sass": "^1.35.1",
+    "webpack": "^4.43.0"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
